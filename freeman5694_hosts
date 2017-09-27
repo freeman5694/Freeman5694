@@ -1,12 +1,9 @@
 # Copyright (c) 2014-2017, freeman5694.
-#url=https://github.com/freeman5694/Freeman5694/blob/master/freeman5694_hosts     转换前  
-#url=https://raw.githubusercontent.com/freeman5694/Freeman5694/master/freeman5694_hosts      转换后
-# Localhost (DO NOT REMOVE) Start
+#url=https://github.com/freeman5694/Freeman5694/blob/master/freeman5694_hosts
 127.0.0.1	localhost
 ::1	localhost
 ::1	ip6-localhost
 ::1	ip6-loopback
-# Localhost (DO NOT REMOVE) End
 66.96.224.143	com.google
 66.96.224.143	domains.google
 66.96.224.143	environment.google
